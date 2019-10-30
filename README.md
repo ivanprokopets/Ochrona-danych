@@ -30,9 +30,9 @@ Informacja o zadań składających się z projektu.
 - [x] 4. Zaproponuj algorytm tworzenia klucza na podstawie hasła podawanego przez człowieka. [Kode_4](./Etap_2/4.py)
 - [x] 5. Określ ile znaków `[a-z]` należy podać, żeby entropia hasła zbliżyła się do 256-bitowego klucza AES. [Kode_5](./Etap_2/5.py)
 - [x] 6. Napisz program do ataku brutalnej siły na kryptogram przy wykorzystaniu entropii jako uniwersalnego kryterium zakończenia algorytmu. [Kode_6](./Etap_2/6.py)
-- [] 7. Atak brutalnej siły na hasło użyte do zaszyfrowania danych obrazu we800_CBC_encrypted.bmp.
+- [x] 7. Atak brutalnej siły na hasło użyte do zaszyfrowania danych obrazu we800_CBC_encrypted.bmp.
 Wiadomo, że hasło składa się z trzech liter `[a-z]` i że zostało przekształcone w klucz za pomocą funkcji `PBKDF2` z solą `"abc"`. Dane obrazka (bez nagłówka!) zostały zaszyfrowane za pomocą algorytmu AES w trybie CBC z `IV="a"*16`.
-Znajdź hasło, używając entropii jako kryterium poprawności odszyfrowania wiadomości.
+Znajdź hasło, używając entropii jako kryterium poprawności odszyfrowania wiadomości.[Kode_7](./Etap_2/task7.py)
 
 ##### Przydatne materiały dla etapu 2
 * Hasła dla Google: DES, AES, key derivation, entropy
