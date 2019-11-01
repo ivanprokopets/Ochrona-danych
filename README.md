@@ -38,4 +38,23 @@ Znajdź hasło, używając entropii jako kryterium poprawności odszyfrowania wi
 * Hasła dla Google: DES, AES, key derivation, entropy
 ----------------------
 
+### Etap 3 - Funkcje hash
+Zapoznanie z algorytmów kryptograficznych funkcji jednokierunkowych (hash) do ochrony bazy haseł. Poznanie zasad ataku systematycznego przeszukiwania (brute-force) na hasła.
+
+#### Opis zadań
+Informacja o zadań składających się z projektu.
+- [ ] 1. Napisz program korzystający z bazy wygenerowanej przez program htpasswd. Celem programu jest sprawdzenie, czy użytkownik o podanym identyfikatorze i haśle jest w pliku bazy.
+- [ ] 2.Napisz program umożliwiający zmianę hasła użytkownika w bazie programu htpasswd.
+- [ ] 3. Napisz program umożliwiający dodawanie nowych użytkowników do bazy programu htpasswd.
+- [ ] 4. Przy pomocy wywołania bibliotecznej funkcji md5() odtwórz działanie programu md5sum.
+- [ ] 5. Przy pomocy wywołania bibliotecznej funkcji md5() odtwórz działanie polecenia md5sum -c, czyli kontrole spójności plików.
+- [ ] 6. Korzystając z polecania time sprawdź wydajność dowolnej implementacji algorytmu łamania haseł metodą brutalnej siły i oszacuj czas maksymalny czas potrzebny do złamania haseł różnej długości i składający się z małych liter i dużych liter.
+- [ ] 7. Napisz program zgadujący hasła ukryte za pomocą funkcji crypt(), przechowywane w bazie programu htpasswd. Przyjmij założenie, że hasła są trzy znakowe i składają się z samych małych liter.
+- [ ] 8. Przygotuj dwa dokumenty, których funkcje skrótu trivial_hash() bedą identyczne, a treść różna. Wykorzystaj paradoks urodzinowy.
+- [ ] 9. Napisz program szukający kolizji z określoną wartością funkcji skrótu trivial_hash() poprzez modyfikacje ‘białych’ znaków.
+- [ ] 10. Porównaj wydajność programu “John the Ripper”, z pythonowym skryptem do łamania haseł.
+
+##### Przydatne materiały dla etapu 3
+* Hasła dla Google: brute force attack, cryptographic hash function, htpasswd, md5sum, crypt function, unix password
+----------------------
 
