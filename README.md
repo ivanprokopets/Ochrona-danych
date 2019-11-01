@@ -43,9 +43,9 @@ Zapoznanie z algorytmów kryptograficznych funkcji jednokierunkowych (hash) do o
 
 #### Opis zadań
 Informacja o zadań składających się z projektu.
-- [ ] 1. Napisz program korzystający z bazy wygenerowanej przez program htpasswd. Celem programu jest sprawdzenie, czy użytkownik o podanym identyfikatorze i haśle jest w pliku bazy.
-- [ ] 2.Napisz program umożliwiający zmianę hasła użytkownika w bazie programu htpasswd.
-- [ ] 3. Napisz program umożliwiający dodawanie nowych użytkowników do bazy programu htpasswd.
+- [x] 1. Napisz program korzystający z bazy wygenerowanej przez program htpasswd. Celem programu jest sprawdzenie, czy użytkownik o podanym identyfikatorze i haśle jest w pliku bazy.
+- [x] 2.Napisz program umożliwiający zmianę hasła użytkownika w bazie programu htpasswd.
+- [x] 3. Napisz program umożliwiający dodawanie nowych użytkowników do bazy programu htpasswd.
 - [ ] 4. Przy pomocy wywołania bibliotecznej funkcji md5() odtwórz działanie programu md5sum.
 - [ ] 5. Przy pomocy wywołania bibliotecznej funkcji md5() odtwórz działanie polecenia md5sum -c, czyli kontrole spójności plików.
 - [ ] 6. Korzystając z polecania time sprawdź wydajność dowolnej implementacji algorytmu łamania haseł metodą brutalnej siły i oszacuj czas maksymalny czas potrzebny do złamania haseł różnej długości i składający się z małych liter i dużych liter.
