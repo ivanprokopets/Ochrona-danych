@@ -43,13 +43,13 @@ Zapoznanie z algorytmów kryptograficznych funkcji jednokierunkowych (hash) do o
 
 #### Opis zadań
 Informacja o zadań składających się z projektu.
-- [x] 1. Napisz program korzystający z bazy wygenerowanej przez program htpasswd. Celem programu jest sprawdzenie, czy użytkownik o podanym identyfikatorze i haśle jest w pliku bazy.
-- [x] 2.Napisz program umożliwiający zmianę hasła użytkownika w bazie programu htpasswd.
-- [x] 3. Napisz program umożliwiający dodawanie nowych użytkowników do bazy programu htpasswd.
+- [x] 1. Napisz program korzystający z bazy wygenerowanej przez program htpasswd. Celem programu jest sprawdzenie, czy użytkownik o podanym identyfikatorze i haśle jest w pliku bazy. [Kode_1](./Etap_3/1.py)
+- [x] 2.Napisz program umożliwiający zmianę hasła użytkownika w bazie programu htpasswd. [Kode_2](./Etap_3/2.py)
+- [x] 3. Napisz program umożliwiający dodawanie nowych użytkowników do bazy programu htpasswd. [Kode_3](./Etap_3/3.py)
 - [ ] 4. Przy pomocy wywołania bibliotecznej funkcji md5() odtwórz działanie programu md5sum.
 - [ ] 5. Przy pomocy wywołania bibliotecznej funkcji md5() odtwórz działanie polecenia md5sum -c, czyli kontrole spójności plików.
 - [ ] 6. Korzystając z polecania time sprawdź wydajność dowolnej implementacji algorytmu łamania haseł metodą brutalnej siły i oszacuj czas maksymalny czas potrzebny do złamania haseł różnej długości i składający się z małych liter i dużych liter.
-- [x] 7. Napisz program zgadujący hasła ukryte za pomocą funkcji crypt(), przechowywane w bazie programu htpasswd. Przyjmij założenie, że hasła są trzy znakowe i składają się z samych małych liter.
+- [x] 7. Napisz program zgadujący hasła ukryte za pomocą funkcji crypt(), przechowywane w bazie programu htpasswd. Przyjmij założenie, że hasła są trzy znakowe i składają się z samych małych liter. [Kode_7](./Etap_3/7.py)
 - [ ] 8. Przygotuj dwa dokumenty, których funkcje skrótu trivial_hash() bedą identyczne, a treść różna. Wykorzystaj paradoks urodzinowy.
 - [ ] 9. Napisz program szukający kolizji z określoną wartością funkcji skrótu trivial_hash() poprzez modyfikacje ‘białych’ znaków.
 - [ ] 10. Porównaj wydajność programu “John the Ripper”, z pythonowym skryptem do łamania haseł.
@@ -68,6 +68,6 @@ Informacja o zadań składających się z projektu.
 - [ ] 3. Napisz program szyfrujący w trybie CTR przy wykorzystaniu algorytmu DES.
 - [ ] 4. Porównaj szybkość szyfrowania `AES.MODE_ECB` w wersji szeregowej i równoległej.
 - [ ] 5. Napisz program szyfrujący w trybie `CTR` - równolegle.
-- [x] 6. Korzystając ze słownika w pliku dict.txt znajdź poprawną kombinację klucza i "soli" (nonce), która pozwoli na poprawne odszyfrowanie kryptogramu (dict['ciphertext]). Kryptogram został zaszyfrowany w trybie AES.MODE_CCM analogicznie do przykładu z pliku CCMexample.py (należy zainstalować wcześniej Cryptodome: pip3 install pycryptodomex).  [Kode_6](./Etap_3/6.py)
+- [x] 6. Korzystając ze słownika w pliku dict.txt znajdź poprawną kombinację klucza i "soli" (nonce), która pozwoli na poprawne odszyfrowanie kryptogramu (dict['ciphertext]). Kryptogram został zaszyfrowany w trybie AES.MODE_CCM analogicznie do przykładu z pliku CCMexample.py (należy zainstalować wcześniej Cryptodome: pip3 install pycryptodomex).  [Kode_6](./Etap_4/6.py)
 
 
