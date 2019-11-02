@@ -58,7 +58,7 @@ Informacja o zadań składających się z projektu.
 * Hasła dla Google: brute force attack, cryptographic hash function, htpasswd, md5sum, crypt function, unix password
 ----------------------
 
-### Etap 3 - Szyfrowanie równolegle
+### Etap 4 - Szyfrowanie równolegle
 Poznanie problemów związanych z implementacją równoległą algorytmów blokowego szyfrowania, a także wyznaczania sum kontrolnych dla kryptogramów.
 
 #### Opis zadań
@@ -68,6 +68,6 @@ Informacja o zadań składających się z projektu.
 - [ ] 3. Napisz program szyfrujący w trybie CTR przy wykorzystaniu algorytmu DES.
 - [ ] 4. Porównaj szybkość szyfrowania `AES.MODE_ECB` w wersji szeregowej i równoległej.
 - [ ] 5. Napisz program szyfrujący w trybie `CTR` - równolegle.
-- [ ] 6. Korzystając ze słownika w pliku dict.txt znajdź poprawną kombinację klucza i "soli" (nonce), która pozwoli na poprawne odszyfrowanie kryptogramu (dict['ciphertext]). Kryptogram został zaszyfrowany w trybie AES.MODE_CCM analogicznie do przykładu z pliku CCMexample.py (należy zainstalować wcześniej Cryptodome: pip3 install pycryptodomex).  [Kode_6](./Etap_3/6.py)
+- [x] 6. Korzystając ze słownika w pliku dict.txt znajdź poprawną kombinację klucza i "soli" (nonce), która pozwoli na poprawne odszyfrowanie kryptogramu (dict['ciphertext]). Kryptogram został zaszyfrowany w trybie AES.MODE_CCM analogicznie do przykładu z pliku CCMexample.py (należy zainstalować wcześniej Cryptodome: pip3 install pycryptodomex).  [Kode_6](./Etap_3/6.py)
 
 
