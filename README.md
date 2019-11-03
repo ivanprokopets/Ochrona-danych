@@ -70,4 +70,20 @@ Informacja o zadań składających się z projektu.
 - [ ] 5. Napisz program szyfrujący w trybie `CTR` - równolegle.
 - [x] 6. Korzystając ze słownika w pliku dict.txt znajdź poprawną kombinację klucza i "soli" (nonce), która pozwoli na poprawne odszyfrowanie kryptogramu (dict['ciphertext]). Kryptogram został zaszyfrowany w trybie AES.MODE_CCM analogicznie do przykładu z pliku CCMexample.py (należy zainstalować wcześniej Cryptodome: pip3 install pycryptodomex).  [Kode_6](./Etap_4/6.py)
 
+### Etap 5 - RSA ( algorytm Rivesta-Shamira-Adlemana )
+Zapoznanie się z algortmem szyfrowania asymetrycznego na przykładzie RSA.
+
+#### Opis zadań 
+Informacja o zadań składających się z projektu.
+- [ ] 1. Napisz funkcje, która będzie przekształcać tekst w wektor liczb o określonej długości. Określ ilość znaków, którą chcesz kodować jednocześnie.
+- [ ] 2. Napisz funkcje odwrotną, czyli przekształcającą wektor liczb w tekst.
+- [ ] 3. Zaimplementuj prosty test pierwszości dla liczby (np. sito Erastotenesa, test Fermata).
+- [ ] 4. Zaimplementuj algorytm Euklidesa do sprawdzenia największego wspólnego dzielnika.
+- [ ] 5. Napisz funkcję wykorzystającą algorytm Euklidesa do sprawdzenia czy liczby są względnie pierwsze.
+- [ ] 6. Napisz funkcję wykorzystającą algorytm Euklidesa do obliczenia liczby odwrotnej modulo.
+- [ ] 7. Zaimplementuj algorytm szybkiego potęgowania w artmetyce modularnej.
+- [ ] 8. Napisz pełny program generujący klucze RSA.
+- [ ] 9. Napisz program realizujący szyfrowanie RSA.
+- [ ] 10. Napisz program korzystający z PyCrypto do szyfrowania plików. Zaproponuj metodę ochrony klucza prywatnego.
+
 
