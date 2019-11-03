@@ -63,12 +63,10 @@ Poznanie problemów związanych z implementacją równoległą algorytmów bloko
 
 #### Opis zadań
 Informacja o zadań składających się z projektu.
-- [ ] 1. Wykorzystując przykłady napisz program implementujący równoległe szyfrowanie w trybie ECB algorytmem AES.
-- [ ] 2. Napisz program odszyfrowujący równolegle w trybie `CBC`.
-- [ ] 3. Napisz program szyfrujący w trybie CTR przy wykorzystaniu algorytmu DES.
-- [ ] 4. Porównaj szybkość szyfrowania `AES.MODE_ECB` w wersji szeregowej i równoległej.
-- [ ] 5. Napisz program szyfrujący w trybie `CTR` - równolegle.
-- [x] 6. Korzystając ze słownika w pliku dict.txt znajdź poprawną kombinację klucza i "soli" (nonce), która pozwoli na poprawne odszyfrowanie kryptogramu (dict['ciphertext]). Kryptogram został zaszyfrowany w trybie AES.MODE_CCM analogicznie do przykładu z pliku CCMexample.py (należy zainstalować wcześniej Cryptodome: pip3 install pycryptodomex).  [Kode_6](./Etap_4/6.py)
+- [x] 1. Napisz program odszyfrowujący równolegle w trybie `CBC`. [Kode_1](./Etap_4/1.py)
+- [x] 2. Porównaj szybkość szyfrowania `AES.MODE_ECB` w wersji szeregowej i równoległej. [Kode_2](./Etap_4/2.py)
+- [x] 3. Napisz program szyfrujący w trybie `CTR` - równolegle. [Kode_3](./Etap_4/3.py)
+- [x] 4. Korzystając ze słownika w pliku dict.txt znajdź poprawną kombinację klucza i "soli" (nonce), która pozwoli na poprawne odszyfrowanie kryptogramu (dict['ciphertext]). Kryptogram został zaszyfrowany w trybie AES.MODE_CCM analogicznie do przykładu z pliku CCMexample.py (należy zainstalować wcześniej Cryptodome: pip3 install pycryptodomex).  [Kode_5](./Etap_4/6.py)
 ----------------------
 ### Etap 5 - RSA ( algorytm Rivesta-Shamira-Adlemana )
 Zapoznanie się z algortmem szyfrowania asymetrycznego na przykładzie RSA.
