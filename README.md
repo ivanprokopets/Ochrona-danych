@@ -78,9 +78,9 @@ Informacja o zadań składających się z projektu.
 - [x] 4. Zaimplementuj algorytm Euklidesa do sprawdzenia największego wspólnego dzielnika. [Kode_4](./Etap_5/4.py)
 - [x] 5. Napisz funkcję wykorzystającą algorytm Euklidesa do sprawdzenia czy liczby są względnie pierwsze. [Kode_5](./Etap_5/5.py)
 - [x] 6. Napisz funkcję wykorzystającą algorytm Euklidesa do obliczenia liczby odwrotnej modulo. [tutorial](https://pl.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-inverses) [Kode_6](./Etap_5/6.py)
-- [ ] 7. Zaimplementuj algorytm szybkiego potęgowania w artmetyce modularnej.
+- [x] 7. Zaimplementuj algorytm szybkiego potęgowania w artmetyce modularnej.[Kode_7](./Etap_5/7.py)
 - [ ] 8. Napisz pełny program generujący klucze RSA.
 - [ ] 9. Napisz program realizujący szyfrowanie RSA.
-- [ ] 10. Napisz program korzystający z PyCrypto do szyfrowania plików. Zaproponuj metodę ochrony klucza prywatnego.
+- [x] 10. Napisz program korzystający z PyCrypto do szyfrowania plików. Zaproponuj metodę ochrony klucza prywatnego. [Kode_10](./Etap_5/10.py)
 
 
