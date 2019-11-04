@@ -46,9 +46,9 @@ Informacja o zadań składających się z projektu.
 - [x] 1. Napisz program korzystający z bazy wygenerowanej przez program htpasswd. Celem programu jest sprawdzenie, czy użytkownik o podanym identyfikatorze i haśle jest w pliku bazy. [Kode_1](./Etap_3/1.py)
 - [x] 2.Napisz program umożliwiający zmianę hasła użytkownika w bazie programu htpasswd. [Kode_2](./Etap_3/2.py)
 - [x] 3. Napisz program umożliwiający dodawanie nowych użytkowników do bazy programu htpasswd. [Kode_3](./Etap_3/3.py)
-- [x] 4. Przy pomocy wywołania bibliotecznej funkcji md5() odtwórz działanie programu md5sum. [Kode_4].(./Etap_3/4zadanie.py)
-- [x] 5. Przy pomocy wywołania bibliotecznej funkcji md5() odtwórz działanie polecenia md5sum -c, czyli kontrole spójności plików. [Kode_5].(./Etap_3/5zadanie.py)
-- [x] 6. Korzystając z polecania time sprawdź wydajność dowolnej implementacji algorytmu łamania haseł metodą brutalnej siły i oszacuj czas maksymalny czas potrzebny do złamania haseł różnej długości i składający się z małych liter i dużych liter. [Kode_5].(./Etap_3/6zadanie.py)
+- [x] 4. Przy pomocy wywołania bibliotecznej funkcji md5() odtwórz działanie programu md5sum. [Kode_4](./Etap_3/4zadanie.py)
+- [x] 5. Przy pomocy wywołania bibliotecznej funkcji md5() odtwórz działanie polecenia md5sum -c, czyli kontrole spójności plików. [Kode_5](./Etap_3/5zadanie.py)
+- [x] 6. Korzystając z polecania time sprawdź wydajność dowolnej implementacji algorytmu łamania haseł metodą brutalnej siły i oszacuj czas maksymalny czas potrzebny do złamania haseł różnej długości i składający się z małych liter i dużych liter. [Kode_5](./Etap_3/6zadanie.py)
 - [x] 7. Napisz program zgadujący hasła ukryte za pomocą funkcji crypt(), przechowywane w bazie programu htpasswd. Przyjmij założenie, że hasła są trzy znakowe i składają się z samych małych liter. [Kode_7](./Etap_3/7.py)
 - [ ] 8. Przygotuj dwa dokumenty, których funkcje skrótu trivial_hash() bedą identyczne, a treść różna. Wykorzystaj paradoks urodzinowy.
 - [ ] 9. Napisz program szukający kolizji z określoną wartością funkcji skrótu trivial_hash() poprzez modyfikacje ‘białych’ znaków.
