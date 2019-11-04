@@ -75,7 +75,7 @@ Informacja o zadań składających się z projektu.
 - [x] 1. Napisz funkcje, która będzie przekształcać tekst w wektor liczb o określonej długości. Określ ilość znaków, którą chcesz kodować jednocześnie. [Kode_1](./Etap_5/1.py)
 - [x] 2. Napisz funkcje odwrotną, czyli przekształcającą wektor liczb w tekst. [Kode_2](./Etap_5/2.py)
 - [x] 3. Zaimplementuj prosty test pierwszości dla liczby (np. sito Erastotenesa, test Fermata). [Kode_3_Sito](./Etap_5/3_sito_Erastotenesa.py) [Kode_3_Fermat](./Etap_5/3_test_Fermata.py)
-- [ ] 4. Zaimplementuj algorytm Euklidesa do sprawdzenia największego wspólnego dzielnika.
+- [x] 4. Zaimplementuj algorytm Euklidesa do sprawdzenia największego wspólnego dzielnika. [Kode_3](./Etap_5/4.py)
 - [ ] 5. Napisz funkcję wykorzystającą algorytm Euklidesa do sprawdzenia czy liczby są względnie pierwsze.
 - [ ] 6. Napisz funkcję wykorzystającą algorytm Euklidesa do obliczenia liczby odwrotnej modulo.
 - [ ] 7. Zaimplementuj algorytm szybkiego potęgowania w artmetyce modularnej.
