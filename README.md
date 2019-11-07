@@ -83,7 +83,7 @@ Informacja o zadań składających się z projektu.
 - [ ] 9. Napisz program realizujący szyfrowanie RSA.
 - [x] 10. Napisz program korzystający z PyCrypto do szyfrowania plików. Zaproponuj metodę ochrony klucza prywatnego. [Kode_10](./Etap_5/10.py)
 ----------------------
-### Etap 6 - 
+### Etap 6 - Bezpieczeństwo oprogramowania -- język C
 
 #### Opis zadań
 
