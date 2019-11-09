@@ -95,4 +95,8 @@ Informacja o zadań składających się z projektu.
 - [ ] 6. Zabezpiecz program vuln przed atakiem polegającym na przepełnieniu bufora. Zaproponuj dwa różne rozwiązania.
 - [ ] 7. Przeprowadź atak na program o buforze o innej długośći niż 500 bajtów (np. 600, 700).
 
+### Etap 7 - Konfiguracja bezpiecznych serwisów sieciowych -- Apache 
+
+### Opis zadań
+
 
