@@ -99,4 +99,6 @@ Informacja o zadań składających się z projektu.
 
 ### Opis zadań
 
+- [ ] 1. 
+
 
