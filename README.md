@@ -91,11 +91,11 @@ Informacja o zadań składających się z projektu.
 
 #### Opis zadań
 
-- [ ] 1. Przeprowadź atak na program login, tak aby hasło zostało uznane za poprawne bez jego podawania.
-- [ ] 2. Zmodyfikuj program login, tak aby nie był możliwy atak przez przepełnienie bufora. (Zaproponuj 2 różne modyfikacje.)
-- [ ] 3. Przeprowadź dwa ataki na program pin﻿, demonstrujące, że nie trzeba znać tajnego pinu, żeby pozytywnie przejść weryfikację.
-- [ ] 4. Zaproponuj dwie poprawione wersję programu pin, odporne na błąd typów zmiennych.
-- [ ] 5. Wykorzystując błąd w programie vuln uzyskaj dostęp do linii poleceń.﻿
+- [x] 1. Przeprowadź atak na program login, tak aby hasło zostało uznane za poprawne bez jego podawania.
+- [x] 2. Zmodyfikuj program login, tak aby nie był możliwy atak przez przepełnienie bufora. (Zaproponuj 2 różne modyfikacje.)
+- [x] 3. Przeprowadź dwa ataki na program pin﻿, demonstrujące, że nie trzeba znać tajnego pinu, żeby pozytywnie przejść weryfikację.
+- [x] 4. Zaproponuj dwie poprawione wersję programu pin, odporne na błąd typów zmiennych.
+- [x] 5. Wykorzystując błąd w programie vuln uzyskaj dostęp do linii poleceń.﻿
 - [ ] 6. Zabezpiecz program vuln przed atakiem polegającym na przepełnieniu bufora. Zaproponuj dwa różne rozwiązania.
 - [ ] 7. Przeprowadź atak na program o buforze o innej długośći niż 500 bajtów (np. 600, 700).
 
