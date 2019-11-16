@@ -70,7 +70,7 @@ Informacja o zadań składających się z projektu.
 ### Etap 5 - RSA ( algorytm Rivesta-Shamira-Adlemana )
 Zapoznanie się z algortmem szyfrowania asymetrycznego na przykładzie RSA.  
 Uruchom Server:  
-    1.`sudo chmod 755 start.sh`  
+    1.`sudo chmod 755 start.sh`  [start.sh](./Etap_5/send_messages/server/start.sh)  
     2.`./start.sh`  
 - [x] 0.1 Wyślij zaszyfrowaną wiadomość do użytkownika deadbeef korzystając z jego klucza w aplikacji serwerowej.[kode_0.1](./Etap_5/send_messages/cw2.py)
 - [x] 0.2 Prześlij bezpiecznie wiadomość poprzez aplikację (wymaga zaangażowania dwóch studentów, gdzie tylko jeden z nich może odszyfrować wiadomość zaadresowaną do niego) user1[kode_0.2.0](./Etap_5/send_messages/cw3_user1.py) user2[kode_0.2.1](./Etap_5/send_messages//cw3_user2.py)
