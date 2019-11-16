@@ -68,7 +68,7 @@ Informacja o zadań składających się z projektu.
 - [x] 4. Korzystając ze słownika w pliku dict.txt znajdź poprawną kombinację klucza i "soli" (nonce), która pozwoli na poprawne odszyfrowanie kryptogramu (dict['ciphertext]). Kryptogram został zaszyfrowany w trybie AES.MODE_CCM analogicznie do przykładu z pliku CCMexample.py (należy zainstalować wcześniej Cryptodome: pip3 install pycryptodomex).  [Kode_4](./Etap_4/6.py)
 ----------------------
 ### Etap 5 - RSA ( algorytm Rivesta-Shamira-Adlemana )
-Zapoznanie się z algortmem szyfrowania asymetrycznego na przykładzie RSA.
+Zapoznanie się z algortmem szyfrowania asymetrycznego na przykładzie RSA.  
 Uruchom Server:  
     1.`sudo chmod 755 start.sh`  
     2.`./start.sh`  
