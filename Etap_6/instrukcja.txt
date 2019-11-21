@@ -1,0 +1,2 @@
+gcc -z execstack -fno-stack-protector login.
+./a.out `perl -e 'print "\x01"x9';`
