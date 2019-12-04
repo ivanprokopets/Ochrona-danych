@@ -1,0 +1,25 @@
+[Tue Dec 03 22:00:57.264825 2019] [ssl:warn] [pid 7481:tid 139976255421376] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 03 22:00:57.264984 2019] [ssl:warn] [pid 7481:tid 139976255421376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 03 22:00:57.278340 2019] [ssl:warn] [pid 7481:tid 139976255421376] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 03 22:00:57.278424 2019] [ssl:warn] [pid 7481:tid 139976255421376] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 03 22:01:30.276492 2019] [authz_core:error] [pid 7481:tid 139975660136192] [client ::1:48410] AH01630: client denied by server configuration: /home/ivan/apache/
+[Tue Dec 03 22:01:30.411983 2019] [authz_core:error] [pid 7481:tid 139975643350784] [client ::1:48410] AH01630: client denied by server configuration: /home/ivan/apache/favicon.ico, referer: https://localhost:4443/
+[Tue Dec 03 22:01:43.137549 2019] [ssl:warn] [pid 7659:tid 140703732599744] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 03 22:01:43.137649 2019] [ssl:warn] [pid 7659:tid 140703732599744] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 03 22:01:43.150714 2019] [ssl:warn] [pid 7659:tid 140703732599744] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Dec 03 22:01:43.150811 2019] [ssl:warn] [pid 7659:tid 140703732599744] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 08:57:57.608886 2019] [ssl:warn] [pid 27158:tid 140188618158848] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 04 08:57:57.609015 2019] [ssl:warn] [pid 27158:tid 140188618158848] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 08:57:57.621775 2019] [ssl:warn] [pid 27158:tid 140188618158848] AH01906: www.example.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Dec 04 08:57:57.621855 2019] [ssl:warn] [pid 27158:tid 140188618158848] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 08:58:27.221303 2019] [authz_core:error] [pid 27158:tid 140188486321920] [client 127.0.0.1:40552] AH01630: client denied by server configuration: /home/ivan/apache/
+[Wed Dec 04 08:58:27.286312 2019] [authz_core:error] [pid 27158:tid 140188403627776] [client 127.0.0.1:40552] AH01630: client denied by server configuration: /home/ivan/apache/favicon.ico
+[Wed Dec 04 09:19:20.971743 2019] [ssl:warn] [pid 28690:tid 139802047574784] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 09:19:20.979003 2019] [ssl:warn] [pid 28690:tid 139802047574784] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 09:20:14.438130 2019] [authz_core:error] [pid 28690:tid 139801932523264] [client 127.0.0.1:40790] AH01630: client denied by server configuration: /home/ivan/apache/
+[Wed Dec 04 09:33:31.323445 2019] [ssl:warn] [pid 29786:tid 139692987671296] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 09:33:31.331200 2019] [ssl:warn] [pid 29786:tid 139692987671296] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Dec 04 09:33:32.914307 2019] [authz_core:error] [pid 29786:tid 139692881012480] [client 127.0.0.1:40996] AH01630: client denied by server configuration: /home/ivan/apache/
+[Wed Dec 04 09:33:37.178030 2019] [authz_core:error] [pid 29786:tid 139692889405184] [client 127.0.0.1:40996] AH01630: client denied by server configuration: /home/ivan/apache/
+[Wed Dec 04 09:33:37.632895 2019] [authz_core:error] [pid 29786:tid 139692804667136] [client 127.0.0.1:40996] AH01630: client denied by server configuration: /home/ivan/apache/
+[Wed Dec 04 09:36:21.822320 2019] [authz_core:error] [pid 29786:tid 139692787881728] [client 127.0.0.1:41010] AH01630: client denied by server configuration: /home/ivan/apache/

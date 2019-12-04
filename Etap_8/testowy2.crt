@@ -1,0 +1,49 @@
+Certificate:
+    Data:
+        Version: 1 (0x0)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=PL, ST=Some-State, L=Warzszaw, O=elektryczny, CN=Politechnika Warszawska/emailAddress=pw@
+        Validity
+            Not Before: Dec  4 08:18:13 2019 GMT
+            Not After : Dec  3 08:18:13 2020 GMT
+        Subject: C=PL, ST=localhost, L=warszawa, O=Internet Widgits Pty Ltd, CN=localhost/emailAddress=ivan@
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (1024 bit)
+                Modulus:
+                    00:a7:09:3d:c4:8a:19:1e:c0:49:62:a7:b5:40:34:
+                    48:46:63:3b:89:d4:93:33:a9:72:73:56:ca:5f:da:
+                    e1:38:54:c0:10:ed:94:71:7b:f7:c7:38:e6:4d:ff:
+                    c9:5e:05:e8:5a:e2:48:7f:fb:f6:3c:6e:63:6f:7d:
+                    88:04:ef:be:d8:84:f2:16:08:24:05:94:5a:27:5f:
+                    ba:33:61:66:42:ba:ff:f2:d3:cd:07:96:2b:90:d4:
+                    26:e9:6c:e1:64:0f:a8:f4:c6:3a:89:3c:96:e1:e7:
+                    b2:cd:c1:27:58:e0:58:41:c0:1b:8f:9c:5c:bb:8a:
+                    e5:cf:5d:6e:3c:83:9d:d7:83
+                Exponent: 65537 (0x10001)
+    Signature Algorithm: sha1WithRSAEncryption
+         4e:8a:2d:c4:14:7c:71:1e:36:7f:67:f9:88:92:59:d2:06:ae:
+         b6:19:52:ee:5e:a2:6b:7d:12:eb:df:0e:f0:77:e3:75:a4:cb:
+         5f:7c:69:11:7e:5e:58:73:d7:d7:2d:0b:a4:e6:6d:d9:55:8a:
+         9e:ae:36:0b:89:ec:9d:8c:31:af:86:c0:b0:bb:6d:54:28:32:
+         bd:c5:37:e0:6b:49:f7:87:50:22:af:78:1f:2d:1a:3b:12:47:
+         d5:5f:b9:64:e3:0c:cd:fd:86:8f:3e:fa:7c:22:fa:17:a6:98:
+         1c:ca:9c:7e:8f:eb:90:7e:49:14:01:70:26:62:3b:f2:57:e4:
+         d9:38
+-----BEGIN CERTIFICATE-----
+MIICczCCAdwCAQEwDQYJKoZIhvcNAQEFBQAwgYExCzAJBgNVBAYTAlBMMRMwEQYD
+VQQIDApTb21lLVN0YXRlMREwDwYDVQQHDAhXYXJ6c3phdzEUMBIGA1UECgwLZWxl
+a3RyeWN6bnkxIDAeBgNVBAMMF1BvbGl0ZWNobmlrYSBXYXJzemF3c2thMRIwEAYJ
+KoZIhvcNAQkBFgNwd0AwHhcNMTkxMjA0MDgxODEzWhcNMjAxMjAzMDgxODEzWjCB
+gTELMAkGA1UEBhMCUEwxEjAQBgNVBAgMCWxvY2FsaG9zdDERMA8GA1UEBwwId2Fy
+c3phd2ExITAfBgNVBAoMGEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDESMBAGA1UE
+AwwJbG9jYWxob3N0MRQwEgYJKoZIhvcNAQkBFgVpdmFuQDCBnzANBgkqhkiG9w0B
+AQEFAAOBjQAwgYkCgYEApwk9xIoZHsBJYqe1QDRIRmM7idSTM6lyc1bKX9rhOFTA
+EO2UcXv3xzjmTf/JXgXoWuJIf/v2PG5jb32IBO++2ITyFggkBZRaJ1+6M2FmQrr/
+8tPNB5YrkNQm6WzhZA+o9MY6iTyW4eeyzcEnWOBYQcAbj5xcu4rlz11uPIOd14MC
+AwEAATANBgkqhkiG9w0BAQUFAAOBgQBOii3EFHxxHjZ/Z/mIklnSBq62GVLuXqJr
+fRLr3w7wd+N1pMtffGkRfl5Yc9fXLQuk5m3ZVYqerjYLieydjDGvhsCwu21UKDK9
+xTfga0n3h1Air3gfLRo7EkfVX7lk4wzN/YaPPvp8IvoXppgcypx+j+uQfkkUAXAm
+YjvyV+TZOA==
+-----END CERTIFICATE-----
