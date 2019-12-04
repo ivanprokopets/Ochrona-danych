@@ -25,7 +25,13 @@ Proces uzyskania certyfikatu podpisanego przez zewnętrzną organizację rozpocz
 `openssl req -new -key test.key -out test.csr`  
 
 #### Podglad prosby
-`openssl req -noout -text -in test.csr`
+`openssl req -noout -text -in test.csr`  
 Plik prośby *.csr powinien być przekazany do urzędu certyfikującego (CA). Urząd certyfikujący korzystając ze swojego klucza i certyfikatu podpisuje prośbę, która od tego momentu staje się podpisanym certyfikatem. Podpisywanie prośby nie jest już jednolinijkowym wywołaniem openssl, a więc wykorzystamy skrypt sign.shSkrypt ten zakłada, że klucz urzędu certyfikującego znajduje się w pliku ca.key, a jego certyfikat w pliku ca.crt. Jeśli tak będzie, to jego wywołanie jest proste:
 
 `./sign.sh test.csr`
+
+
+## Zadania
+1. Uruchomienie serwera z obsługą https z certyfikatem samopodpisanym.  
+2. Uruchomienie serwera korzystającego z certyfikatu podpisanego przez inny serwer.  
+3. Doprowadzenie do sytuacji, w której przeglądarka będzie bez ostrzeżeń akceptowała wygenerowany certyfikat.  
