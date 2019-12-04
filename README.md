@@ -104,4 +104,7 @@ Informacja o zadań składających się z projektu.
 ### Opis zadań
 Patrz do folderu [Etap_7](./Etap_7)
 
+### Etap 8 - Konfiguracja bezpiecznych serwisów sieciowych -- Apache+SSL
+
+Patrz do folderu [Etap_8](./Etap_8)
 
