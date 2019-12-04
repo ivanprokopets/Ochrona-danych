@@ -102,7 +102,6 @@ Informacja o zadań składających się z projektu.
 ### Etap 7 - Konfiguracja bezpiecznych serwisów sieciowych -- Apache 
 
 ### Opis zadań
-
-- [ ] 1. 
+Patrz do folderu [Etap_7](./Etap_7)
 
 
