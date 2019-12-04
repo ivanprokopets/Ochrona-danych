@@ -35,3 +35,5 @@ Plik prośby *.csr powinien być przekazany do urzędu certyfikującego (CA). Ur
 1. Uruchomienie serwera z obsługą https z certyfikatem samopodpisanym.  
 2. Uruchomienie serwera korzystającego z certyfikatu podpisanego przez inny serwer.  
 3. Doprowadzenie do sytuacji, w której przeglądarka będzie bez ostrzeżeń akceptowała wygenerowany certyfikat.  
+
+=)
