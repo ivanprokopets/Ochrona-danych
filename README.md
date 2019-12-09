@@ -108,3 +108,8 @@ Patrz do folderu [Etap_7](./Etap_7)
 
 Patrz do folderu [Etap_8](./Etap_8)
 
+
+### Etap 9 - Bezpieczeństwo aplikacji internetowych - XSS
+
+Patrz do folderu [Etap_9](./Etap_9)
+
